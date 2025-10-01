@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "test",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus23.actions.githubusercontent.com/V7vPeSyk6x6Y6f2RMuvhw4bN3IQoJM5LYMXExXcGtKTpym4kRQ/",
+  "gitHubUrl": "https://github.com/vjerani/integration-test",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
