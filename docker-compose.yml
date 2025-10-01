@@ -11,6 +11,7 @@ services:
   eshop.db:
     image: postgres:latest
     container_name: eshop-db
+    hostname: eshop.db
     environment:
       - POSTGRES_DB=eshop
       - POSTGRES_USER=postgres
